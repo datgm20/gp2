@@ -4,6 +4,7 @@
 - meet
 
 ## 1回目
+- [就活にあたって再確認](https://docs.google.com/presentation/d/1mIIrnua1nf2yCiXA6KMkTUOylzPIxiUCeqQEdtHdPhc/)
 - ブログの開設と確認
   - [Qiita](https://qiita.com/)
   - [はてなブログ](https://hatenablog.com/)
