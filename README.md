@@ -1,7 +1,7 @@
 # ゲームプログラミング２年生
 
 - [シラバス](https://drive.google.com/file/d/1NsA7-Um06nKoadGmu7eYQc5feMkQuw6M/)
-- [質問](https://meet.google.com/dyf-fsns-kou)
+- [質問](https://meet.google.com/yhn-aosn-kcr)
 
 ## 1回目
 - [就活にあたって再確認](https://docs.google.com/presentation/d/1mIIrnua1nf2yCiXA6KMkTUOylzPIxiUCeqQEdtHdPhc/)
