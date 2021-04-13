@@ -15,4 +15,8 @@
   - etc...
 - 開設したブログのURLをこちらに報告
 - [プログラムの設計](https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/)
-
+  - [解答用紙](https://docs.google.com/document/d/1KtAJXcpRg9kBEL85AGlQVUQpITOR-fTOxw_Ip_3I2xI/)
+    - ファイルメニューから コピーを作成
+    - ファイル名の最後の「のコピー」の部分を消して、名前を入力
+    - 適当な場所を選択してOKをクリック
+    - 解答したら、共有で こちら にURLを報告
