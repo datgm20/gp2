@@ -8,9 +8,9 @@
 - [就活にあたって再確認](https://docs.google.com/presentation/d/1mIIrnua1nf2yCiXA6KMkTUOylzPIxiUCeqQEdtHdPhc/)
 - 更新作業
   - Cluster対応のUnity
-    - 
   - Clusterアプリ
   - Visual Studio 2019の更新
+- [手順メモ](https://docs.google.com/document/d/1tTdcbj_lzgi1qZUuM1xQXRZ-VNU90eJbh-EF021Xai0/)
 
 ### 残り時間で以下
 - ブログの開設と確認
