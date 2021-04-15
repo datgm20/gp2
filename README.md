@@ -1,7 +1,7 @@
 # ゲームプログラミング２年生
 
 - [シラバス](https://drive.google.com/file/d/1NsA7-Um06nKoadGmu7eYQc5feMkQuw6M/)
-- [質問](https://meet.google.com/yhn-aosn-kcr)
+- [質問](https://meet.google.com/wzp-yrcx-drx)
 - [Slack](https://datgm20.slack.com/)
 
 ## 1回目
