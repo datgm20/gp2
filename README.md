@@ -7,8 +7,8 @@
 ## 1回目
 - [就活にあたって再確認](https://docs.google.com/presentation/d/1mIIrnua1nf2yCiXA6KMkTUOylzPIxiUCeqQEdtHdPhc/)
 - 更新作業
-  - Unity 2020LTS
   - Cluster対応のUnity
+    - 
   - Clusterアプリ
   - Visual Studio 2019の更新
 
