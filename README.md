@@ -4,6 +4,21 @@
 - [質問](https://meet.google.com/wzp-yrcx-drx)
 - [Slack](https://datgm20.slack.com/)
 
+## 参考URL
+- [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
+
+
+## 2回目
+### 話題
+- [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
+
+### 予定
+- [設計]()
+- [共同制作練習]()
+  - Unity Packagesによる共有
+  - GitHubとWinMergeによる共有
+
+
 ## 1回目
 - [就活にあたって再確認](https://docs.google.com/presentation/d/1mIIrnua1nf2yCiXA6KMkTUOylzPIxiUCeqQEdtHdPhc/)
 - 更新作業
