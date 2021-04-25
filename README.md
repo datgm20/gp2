@@ -6,7 +6,7 @@
 
 ## 参考URL
 - [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
-
+- [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
 
 ## 2回目
 ### 話題
