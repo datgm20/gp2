@@ -10,6 +10,7 @@
 
 ## 2回目
 ### 話題
+- [1週間ゲームジャム. テーマ「2」 5/2(日)20:00公開開始](https://unityroom.com/unity1weeks)
 - [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
 - ブログを書こう
   - 自分への備忘録(下書きのままでもよい)
