@@ -28,7 +28,7 @@
     - ファイルメニューから コピーを作成
     - ファイル名の最後の「のコピー」の部分を消して、名前を入力
     - 適当な場所を選択してOKをクリック
-    - 解答したら、共有で こちら にURLを報告
+    - 解答したら、共有で [こちら](https://docs.google.com/forms/d/e/1FAIpQLScjHG18gaNFBzUHrMieD4EK5OfJHY7JE-VocWz-saxyAuuZyQ/viewform?usp=sf_link) にURLを報告
 
 ### 残り時間で以下
 - ブログの開設と確認
