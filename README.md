@@ -10,6 +10,14 @@
 - [Dustin Boswell. リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)](https://www.amazon.co.jp/dp/4873115655/ref=cm_sw_r_tw_dp_H1D6XS3GJ1FVYJ4WMJES)
 - [Robert C.Martin. Clean Architecture 達人に学ぶソフトウェアの構造と設計](https://www.amazon.co.jp/dp/4048930656/ref=cm_sw_r_tw_dp_0X2WF11K1XDVR9KNJFDW)
 
+## 3回目
+### 予定
+- [GitHubの練習](https://github.com/tanakaedu/GP2Sandbox)
+  - 練習用プロジェクトのフォーク、クローン
+  - ブランチ操作、コンフリクト対応の練習
+- 卒業制作の作業
+
+
 ## 2回目
 ### 話題
 - [1週間ゲームジャム. テーマ「2」 5/2(日)20:00公開開始](https://unityroom.com/unity1weeks)
@@ -22,7 +30,7 @@
   - これが出来ていれば勉強会などへの発表の下地ができるし、自動的にポートフォリオができる
   - プロジェクトの公開もよい
 
-### 予定
+### 内容
 - [プログラムの設計](https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/)
   - [解答用紙](https://docs.google.com/document/d/1KtAJXcpRg9kBEL85AGlQVUQpITOR-fTOxw_Ip_3I2xI/)
     - ファイルメニューから コピーを作成
@@ -40,11 +48,6 @@
   - [WiX](https://ja.wix.com/)
   - etc...
 - 開設したブログのURLをこちらに報告
-
-### 次回予定
-- [共同制作練習]()
-  - Unity Packagesによる共有
-  - GitHubとWinMergeによる共有
 
 
 ## 1回目
