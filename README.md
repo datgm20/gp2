@@ -11,8 +11,17 @@
 - [Dustin Boswell. リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)](https://www.amazon.co.jp/dp/4873115655/ref=cm_sw_r_tw_dp_H1D6XS3GJ1FVYJ4WMJES)
 - [Robert C.Martin. Clean Architecture 達人に学ぶソフトウェアの構造と設計](https://www.amazon.co.jp/dp/4048930656/ref=cm_sw_r_tw_dp_0X2WF11K1XDVR9KNJFDW)
 
-## 3回目
+## 4回目
+### 話題
+- [Christoph Molnar. 説明可能なAI](https://hacarus.github.io/interpretable-ml-book-ja/)
+
 ### 予定
+- [SOLID原則 単一責任の原則](https://docs.google.com/document/d/15hpRSCA1QDWv8MH1vOZTJ8qrnPVq39NCfzAvmKHm9FA/edit)
+- 卒業制作の作業
+
+## 3回目
+
+### 内容
 - [GitHubの練習](https://github.com/tanakaedu/GP2Sandbox)
   - 練習用プロジェクトのフォーク、クローン
   - ブランチ操作、コンフリクト対応の練習
