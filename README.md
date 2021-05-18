@@ -6,7 +6,8 @@
 - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
 
 ## 参考URL / 図書
-- [Unity入門の森　ゲームの作り方.](https://3dunity.org/game-create-lesson/)
+- [Unity入門の森 ゲームの作り方.](https://3dunity.org/game-create-lesson/)
+- [Unity入門の森 UnityC#プログラミング講座](https://3dunity.org/unity-introduction/unity-csharp-programming/)
 - [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
 - [Dustin Boswell. リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)](https://www.amazon.co.jp/dp/4873115655/ref=cm_sw_r_tw_dp_H1D6XS3GJ1FVYJ4WMJES)
 - [Robert C.Martin. Clean Architecture 達人に学ぶソフトウェアの構造と設計](https://www.amazon.co.jp/dp/4048930656/ref=cm_sw_r_tw_dp_0X2WF11K1XDVR9KNJFDW)
@@ -16,6 +17,8 @@
 - [Christoph Molnar. 説明可能なAI](https://hacarus.github.io/interpretable-ml-book-ja/)
 
 ### 予定
+- [Unity入門の森 UnityC#プログラミング講座](https://3dunity.org/unity-introduction/unity-csharp-programming/)より
+  - **12. クラスとインスタンスの作り方・コンストラクタの使い方** から **15. インターフェースの使い方・ポリモーフィズムの考え方** まで
 - [SOLID原則 単一責任の原則](https://docs.google.com/document/d/15hpRSCA1QDWv8MH1vOZTJ8qrnPVq39NCfzAvmKHm9FA/edit)
 - 卒業制作の作業
 
