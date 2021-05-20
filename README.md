@@ -3,6 +3,7 @@
 - [シラバス](https://drive.google.com/file/d/1NsA7-Um06nKoadGmu7eYQc5feMkQuw6M/)
 - [質問](https://meet.google.com/wzp-yrcx-drx)
 - [Slack](https://datgm20.slack.com/)
+- [座席](https://docs.google.com/spreadsheets/d/1BKTUpK3sLVUibRjjyXiLDMgG1pY4OCVu9CIH5Ry3_C8/)
 - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
 
 ## 参考URL / 図書
