@@ -15,9 +15,10 @@
 
 ## 5回目
 ### 予定
-- [SOLID原則 単一責任の原則](https://docs.google.com/document/d/15hpRSCA1QDWv8MH1vOZTJ8qrnPVq39NCfzAvmKHm9FA/edit)
 - [Unity入門の森 UnityC#プログラミング講座](https://3dunity.org/unity-introduction/unity-csharp-programming/)より
-  - **14. クラスの継承・抽象メソッドとオーバライドの使い方**、**15. インターフェースの使い方・ポリモーフィズムの考え方**
+  - 14. クラスの継承・抽象メソッドとオーバライドの使い方
+  - 15. インターフェースの使い方・ポリモーフィズムの考え方
+- [SOLID原則 単一責任の原則](https://docs.google.com/document/d/15hpRSCA1QDWv8MH1vOZTJ8qrnPVq39NCfzAvmKHm9FA/edit)
 - 卒業制作の作業
 
 ## 4回目
@@ -26,7 +27,8 @@
 
 ### 内容
 - [Unity入門の森 UnityC#プログラミング講座](https://3dunity.org/unity-introduction/unity-csharp-programming/)より
-  - **12. クラスとインスタンスの作り方・コンストラクタの使い方**、**13. フィールド・プロパティ・アクセス修飾子の使い方　スコープの概念を理解する** まで
+  - 12. クラスとインスタンスの作り方・コンストラクタの使い方
+  - 13. フィールド・プロパティ・アクセス修飾子の使い方　スコープの概念を理解する
 - 卒業制作の作業
 
 ## 3回目
