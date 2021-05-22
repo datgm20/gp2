@@ -12,8 +12,14 @@
 - [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
 - [Dustin Boswell. リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)](https://www.amazon.co.jp/dp/4873115655/ref=cm_sw_r_tw_dp_H1D6XS3GJ1FVYJ4WMJES)
 - [Robert C.Martin. Clean Architecture 達人に学ぶソフトウェアの構造と設計](https://www.amazon.co.jp/dp/4048930656/ref=cm_sw_r_tw_dp_0X2WF11K1XDVR9KNJFDW)
+- [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 
 ## 5回目
+
+### 話題
+- [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
+
+
 ### 予定
 - [Unity入門の森 UnityC#プログラミング講座](https://3dunity.org/unity-introduction/unity-csharp-programming/)より
   - 14_クラスの継承・抽象メソッドとオーバライドの使い方
