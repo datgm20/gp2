@@ -18,6 +18,7 @@
 
 ### 話題
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
+- [Gotanda.unity #18 sponsored by ワンダープラネット株式会社](https://meetup.unity3d.jp/jp/events/1302)
 
 
 ### 予定
