@@ -16,6 +16,7 @@
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
 ## 5,6回目
+- [チーム開発について](https://docs.google.com/document/d/16QK1RWrFSL_b8BckgaYKSlM3AVjEyE08u-f2O4gCYR4/)
 
 ### 話題
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
