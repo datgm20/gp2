@@ -15,6 +15,11 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
+## 7回目
+## 予定
+- [SOLID原則 単一責任の原則](https://docs.google.com/document/d/15hpRSCA1QDWv8MH1vOZTJ8qrnPVq39NCfzAvmKHm9FA/edit)
+- 卒業制作の作業
+
 ## 5,6回目
 - [チーム開発について](https://docs.google.com/document/d/16QK1RWrFSL_b8BckgaYKSlM3AVjEyE08u-f2O4gCYR4/)
 
@@ -27,7 +32,6 @@
 - [Unity入門の森 UnityC#プログラミング講座](https://3dunity.org/unity-introduction/unity-csharp-programming/)より
   - 14_クラスの継承・抽象メソッドとオーバライドの使い方
   - 15_インターフェースの使い方・ポリモーフィズムの考え方
-- [SOLID原則 単一責任の原則](https://docs.google.com/document/d/15hpRSCA1QDWv8MH1vOZTJ8qrnPVq39NCfzAvmKHm9FA/edit)
 - 卒業制作の作業
 
 ## 4回目
