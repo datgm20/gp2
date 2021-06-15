@@ -15,9 +15,20 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
+## 8回目
+### 話題
+- [SEGA TECH BLOG. クォータニオンとは何ぞや？：基礎線形代数講座](https://techblog.sega.jp/entry/2021/06/15/100000)
+
+### 予定
+- [SOLID原則 リスコフの置換原則](https://docs.google.com/document/d/1HZwvd3D9xl6WKje67xjGv7D6J61q3oN80s153cWqX8A/)
+- [SOLID原則 インターフェース分離の原則](https://docs.google.com/document/d/17sJ1imhvRp2jPmW7xTcJ2iS3KeUKahFLzVnLWf_Ny8g/)
+- 卒業制作の作業
+
+
 ## 7回目
-## 予定
-- [SOLID原則 単一責任の原則](https://docs.google.com/document/d/15hpRSCA1QDWv8MH1vOZTJ8qrnPVq39NCfzAvmKHm9FA/edit)
+### 内容
+- [SOLID原則 単一責任の原則](https://docs.google.com/document/d/15hpRSCA1QDWv8MH1vOZTJ8qrnPVq39NCfzAvmKHm9FA/)
+- [SOLID原則 オープン・クローズドの原則](https://docs.google.com/document/d/1DRVpIPlE-lMEeOZqPzA3kfO4hJLHhT5ij7tzZ2d7Ids/)
 - 卒業制作の作業
 
 ## 5,6回目
