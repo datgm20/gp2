@@ -15,11 +15,23 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
+## 9回目
+
+### 予定
+- 設計の振り返り
+  - [プログラムの設計](https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/)
+- Unity2019.4.22f1をインストール
+  - Android, iOS, Mac Build Support を選択してインストール
+- clusterのアップデート
+  - スタートメニュー > `cluster`と入力 > clusterを起動
+  - 管理者権限が必要なので教員を呼ぶ
+- clusterのワールドを作って起動できるかチェック
+
 ## 8回目
 ### 話題
 - [SEGA TECH BLOG. クォータニオンとは何ぞや？：基礎線形代数講座](https://techblog.sega.jp/entry/2021/06/15/100000)
 
-### 予定
+### 内容
 - [SOLID原則 リスコフの置換原則](https://docs.google.com/document/d/1HZwvd3D9xl6WKje67xjGv7D6J61q3oN80s153cWqX8A/)
 - [SOLID原則 インターフェース分離の原則](https://docs.google.com/document/d/17sJ1imhvRp2jPmW7xTcJ2iS3KeUKahFLzVnLWf_Ny8g/)
 - 卒業制作の作業
