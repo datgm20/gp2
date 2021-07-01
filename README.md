@@ -15,9 +15,18 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
-## 9回目
+## 10回目
+### 話題
+- [@shothym. 「なんとなく」コードレビューしてませんか？](https://qiita.com/shothym/items/6b1d47900d2405cccdcf)
 
 ### 予定
+- 水曜日提出分のレビュー
+- 卒業制作の作業
+
+
+## 9回目
+
+### 話題
 - 設計の振り返り
   - [プログラムの設計](https://docs.google.com/document/d/1WHlNEKhg_iqpEReh0ym9lpMSjmhjrhWGxXcyJ9T6EpY/)
 - 卒業制作の作業
