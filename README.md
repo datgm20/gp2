@@ -5,6 +5,7 @@
 - [Slack](https://datgm20.slack.com/)
 - [座席](https://docs.google.com/spreadsheets/d/1BKTUpK3sLVUibRjjyXiLDMgG1pY4OCVu9CIH5Ry3_C8/)
 - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
+- [日程](https://github.com/datgm21/gp1/blob/main/thus.md)
 
 ## 参考URL / 図書
 - [Unity入門の森 ゲームの作り方.](https://3dunity.org/game-create-lesson/)
