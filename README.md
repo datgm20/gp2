@@ -15,8 +15,13 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
+## 12回目
+- https://www.notion.so/ の紹介
+- 卒業制作の作業
+
+
 ## 11回目
-### 予定
+### 内容
 - 設計の振り返り
   - [設計とSOLID原則](https://github.com/datgm20/gp2/wiki/%E8%A8%AD%E8%A8%88%E3%81%A8SOLID%E5%8E%9F%E5%89%87)
 - 歩く系のキャラ制御のヒント
