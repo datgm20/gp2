@@ -23,9 +23,9 @@
 
 ## 話題
 - [Unity アセット真夏のアドベントカレンダー 2021 Summer!](https://assetstore.info/eventandcontest/adventcalendar/summer-advent-calendar-2021/)
-- ゲームクリエイター甲子園
-- clusterゲームジャム
-- (おそらく1週間ゲームジャム)
+- [ゲームクリエイター甲子園](https://game.creators-guild.com/gck2021/)
+- [clusterゲームジャム](https://www.contest.cluster.mu/gamejam2021summer-home)
+- ([おそらく1週間ゲームジャム](https://unityroom.com/))
 
 ## 予定
 - 自習環境　AtCoder, paiza.ioなど
