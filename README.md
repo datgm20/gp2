@@ -16,6 +16,19 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
+## 13回目
+
+## 話題
+- [Unity アセット真夏のアドベントカレンダー 2021 Summer!](https://assetstore.info/eventandcontest/adventcalendar/summer-advent-calendar-2021/)
+- ゲームクリエイター甲子園
+- clusterゲームジャム
+- (おそらく1週間ゲームジャム)
+
+
+## 予定
+- 卒業制作の作業
+
+
 ## 12回目
 - https://www.notion.so/ の紹介
 - 卒業制作の作業
