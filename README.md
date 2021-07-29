@@ -8,6 +8,9 @@
 - [日程](https://github.com/datgm21/gp1/blob/main/thus.md)
 
 ## 参考URL / 図書
+- [AtCoder](https://atcoder.jp/?lang=ja)
+- [paiza](https://paiza.jp/)
+  - [paizaのスキルチェックの準備](https://docs.google.com/document/d/1R_2RpgenKHdM7XPX9YjDXxZExyY1-srDI_Nnrw9tJeA/)
 - [Unity入門の森 ゲームの作り方.](https://3dunity.org/game-create-lesson/)
 - [Unity入門の森 UnityC#プログラミング講座](https://3dunity.org/unity-introduction/unity-csharp-programming/)
 - [サル先生のGit入門](https://backlog.com/ja/git-tutorial/)
@@ -24,8 +27,8 @@
 - clusterゲームジャム
 - (おそらく1週間ゲームジャム)
 
-
 ## 予定
+- 自習環境　AtCoder, paiza.ioなど
 - 卒業制作の作業
 
 
