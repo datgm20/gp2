@@ -20,6 +20,9 @@
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
 ## 14回目(9/2)
+### 話題
+- [Ledge inc. 東京大学、Pythonプログラミング無料入門](https://ledge.ai/ut-python/)
+  - [東京大学. Pythonプログラミング入門](https://sites.google.com/view/ut-python/resource/%E6%95%99%E6%9D%90%E8%AC%9B%E7%BE%A9%E5%8B%95%E7%94%BB)
 
 ### 予定
 - 前期課題の作成と提出
