@@ -19,15 +19,33 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
+## 14回目(9/2)
+
+### 予定
+- 前期課題の作成と提出
+- 時間が余れば卒業制作の開発
+
+### 前期課題 作業報告レポートと最新ビルドの提出
+[課題詳細](https://docs.google.com/document/d/1p4jayYr9K_z3ulEUaakMMGSkkQlBwe6kgBSmq5bnong/)の指示に従って、プログラムの解説レポートをGoogleドキュメントで作成して、ドキュメントに記載してあるリンクから共有URLを報告せよ。
+
+### 締め切り
+- 9/2(木) 16:10 までに提出されたもので合否判定
+- 9/9(木) 16:10 まで更新可能。ボーナス点対象
+
+### 15週目予定
+- 後期に向けて作業
+- 9/2時点で課題が仕上がっていなければ、この時間で仕上げる
+
+
 ## 13回目
 
-## 話題
+### 話題
 - [Unity アセット真夏のアドベントカレンダー 2021 Summer!](https://assetstore.info/eventandcontest/adventcalendar/summer-advent-calendar-2021/)
 - [ゲームクリエイター甲子園](https://game.creators-guild.com/gck2021/)
 - [clusterゲームジャム](https://www.contest.cluster.mu/gamejam2021summer-home)
 - ([おそらく1週間ゲームジャム](https://unityroom.com/unity1weeks))
 
-## 予定
+### 内容
 - 自習環境　AtCoder, paiza.ioなど
 - 卒業制作の作業
 
