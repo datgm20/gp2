@@ -19,12 +19,22 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
+## 15回目(9/9)
+
+### 予定
+- 以下の前期課題が終わっていなければ仕上げる
+- 卒業制作の開発
+
+### 前期課題 作業報告レポートと最新ビルドの提出
+[課題詳細](https://docs.google.com/document/d/1p4jayYr9K_z3ulEUaakMMGSkkQlBwe6kgBSmq5bnong/)の指示に従って、プログラムの解説レポートをGoogleドキュメントで作成して、ドキュメントに記載してあるリンクから共有URLを報告せよ。
+
+
 ## 14回目(9/2)
 ### 話題
 - [Ledge inc. 東京大学、Pythonプログラミング無料入門](https://ledge.ai/ut-python/)
   - [東京大学. Pythonプログラミング入門](https://sites.google.com/view/ut-python/resource/%E6%95%99%E6%9D%90%E8%AC%9B%E7%BE%A9%E5%8B%95%E7%94%BB)
 
-### 予定
+### 内容
 - 前期課題の作成と提出
 - 時間が余れば卒業制作の開発
 
