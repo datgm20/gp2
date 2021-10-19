@@ -19,7 +19,7 @@
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 
-## 後期1回目
+## 後期1-4回目
 ### 予定
 - 卒業制作の作業と質疑応答
 
