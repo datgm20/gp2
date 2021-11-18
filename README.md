@@ -41,6 +41,11 @@
     - [ここ](https://docs.google.com/forms/d/e/1FAIpQLScjHG18gaNFBzUHrMieD4EK5OfJHY7JE-VocWz-saxyAuuZyQ/viewform?usp=sf_link)から氏名と共有URLを送信
     - ゲーム開発やデータ処理、機械制御など、何らかの技術的なテーマを検索して、ドキュメントに列挙
     - 参考になりそうなWebサイトを検索して、URLを貼り付けていく
+- 公開ページのための情報
+  - 参考 https://dat19.github.io/works/ac/index.html
+  - 上記のようなページを作成する。`Z:\student\卒業制作\DATフェスタ版ビルド`フォルダーの作品名フォルダー内に`web`フォルダーを作成して、以下をコピー
+    - 見出しに使うゲーム画面のスクリーンショット(ビルドしたものを実行して、[PrtSc]キーで画面イメージをコピー、ペイントを起動して貼り付けて、`game-image.png`のファイル名で保存したもの
+    - `credits.txt`という名前でテキストファイルを作成して、音やフォントなど、使用した素材の著作権者名とURLを書く
 
 
 ## 後期1-4回目
