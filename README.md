@@ -18,6 +18,7 @@
 - [Robert C.Martin. Clean Architecture 達人に学ぶソフトウェアの構造と設計](https://www.amazon.co.jp/dp/4048930656/ref=cm_sw_r_tw_dp_0X2WF11K1XDVR9KNJFDW)
 - [ハーバード大学 CS50 の日本語版翻訳プロジェクトのページ](https://cs50.jp/)
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
+- [命名規則](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 
 ## 後期5回目(11/18)
 ディッシューティングチームは[こちら](https://github.com/datgm20/sotsusei/#%E5%BE%8C%E6%9C%9F5%E9%80%B1%E7%9B%AE1117)を見てデータを提出してください。
