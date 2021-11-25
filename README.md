@@ -20,14 +20,14 @@
 - [企業へ提出するデータのまとめ方](https://docs.google.com/document/d/13AKqKXnycFbwY-VT-Btu9nifEalxnK-jiPCm2JsvGIs/)
 - [命名規則](https://am1tanaka.hatenablog.com/entry/2019/12/06/101055)
 
-## 後期6回目(11/25)
-
-### 今後のテーマ
+## 今後のテーマ
 これまで制作したものからテーマを選んで最終レポートをまとめて、最後に発表。
 
 - Unityプロジェクトの整理
 - スクリプトを作成していたら、作成したスクリプトのうちから深そうなものを選んで、アルゴリズムの最適化や詳細解説を作成。最終的に、作品にフェードバックできるのが理想
 - スクリプト制作に関わらなかった場合、アルゴリズムやベクトルについて興味あるテーマを探す
+
+## 後期6回目(11/25)
 
 ### 予定
 - [最終レポートについての説明](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
