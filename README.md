@@ -29,6 +29,9 @@
 
 ## 後期7回目(12/2)
 
+### 話題
+- [paiza開発日誌. 開発言語だけじゃない！「ITエンジニアに求められるスキル」とは？新卒研修資料まとめ](https://paiza.hatenablog.com/entry/2021/11/29/130000#%E3%81%8A%E3%82%82%E3%81%AA%E6%8F%90%E4%BE%9B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
+
 ### 予定
 - [最終レポートについて](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
   - Unity Test
