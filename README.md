@@ -27,6 +27,16 @@
 - スクリプトを作成していたら、作成したスクリプトのうちから深そうなものを選んで、アルゴリズムの最適化や詳細解説を作成。最終的に、作品にフェードバックできるのが理想
 - スクリプト制作に関わらなかった場合、アルゴリズムやベクトルについて興味あるテーマを探す
 
+## 後期8回目(12/9)
+
+### 予定
+- [最終レポートについて](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+  - [Qiita. Advent Calendar 2021 Unity](https://qiita.com/advent-calendar/2021/unity)
+- レポートのための調査、目次作成
+- コードレビュー続き
+  - 先週作成したGoogleドキュメントを開いて、右上の「共有」をクリック、リンクを取得の左下の「変更」をクリックして、「閲覧者」をクリックして「閲覧者（コメント可）」に変更する
+
+
 ## 後期7回目(12/2)
 
 ### 話題
@@ -34,7 +44,7 @@
 - [気ままなUnityエンジニアブログ. 【Unity ゲーム制作】神経衰弱ゲームを作ろう！](https://www.wojtekmt.com/entry/2019/09/22/190000)
   - ActionやLINQの使い方などを観察してみる
 
-### 予定
+### 内容
 - [最終レポートについて](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
   - Unity Test
 - 「DATフェスタ作業まとめ」に「スクリプト概要」を書く
