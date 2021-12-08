@@ -32,6 +32,8 @@
 ### 予定
 - [最終レポートについて](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
   - [Qiita. Advent Calendar 2021 Unity](https://qiita.com/advent-calendar/2021/unity)
+- プロジェクトの整理
+  - ファイルサイズの調査 [Dolphiiiin. Unityのビルドサイズ削減に使えるBuild Report Inspector](https://zenn.dev/dolphiiiin/articles/366fc43210db30)
 - レポートのための調査、目次作成
 - コードレビュー続き
   - 先週作成したGoogleドキュメントを開いて、右上の「共有」をクリック、リンクを取得の左下の「変更」をクリックして、「閲覧者」をクリックして「閲覧者（コメント可）」に変更する
