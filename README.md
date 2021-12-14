@@ -34,6 +34,7 @@
   - [Qiita. Advent Calendar 2021 Unity](https://qiita.com/advent-calendar/2021/unity)
 - DATフェスタ版仕上げ
   - [全滅の管理サンプル](https://github.com/tanakaedu/ZenmetsuSample)
+- 残りのコードレビュー
 - レポートのための調査、目次作成、内容執筆とレビュー
   - 共有したGoogleドキュメントに記載を追加していく
 
