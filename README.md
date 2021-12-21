@@ -27,14 +27,25 @@
 - スクリプトを作成していたら、作成したスクリプトのうちから深そうなものを選んで、アルゴリズムの最適化や詳細解説を作成。最終的に、作品にフェードバックできるのが理想
 - スクリプト制作に関わらなかった場合、アルゴリズムやベクトルについて興味あるテーマを探す
 
-## 後期9回目(12/16)
+## 後期10回目(12/23)
+### 話題
+- [CyberAgentGameEntertainment/NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader)
 
 ### 予定
 - [最終レポートについて](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
   - [Qiita. Advent Calendar 2021 Unity](https://qiita.com/advent-calendar/2021/unity)
+- コードレビュー続き
+- レポートのための調査、目次作成、内容執筆とレビュー
+  - 共有したGoogleドキュメントに記載を追加していく
+
+## 後期9回目(12/16)
+
+### 内容
+- [最終レポートについて](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+  - [Qiita. Advent Calendar 2021 Unity](https://qiita.com/advent-calendar/2021/unity)
 - DATフェスタ版仕上げ
   - [全滅の管理サンプル](https://github.com/tanakaedu/ZenmetsuSample)
-- 残りのコードレビュー
+- コードレビュー続き
 - レポートのための調査、目次作成、内容執筆とレビュー
   - 共有したGoogleドキュメントに記載を追加していく
 
