@@ -30,6 +30,7 @@
 ## 後期10回目(12/23)
 ### 話題
 - [CyberAgentGameEntertainment/NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader)
+- 参考： [西岡和樹, 藤本健人. JAVA で作る弾幕系シューティングゲーム Barrage-based Shooting Game](http://www2.hannan-u.ac.jp/~hanakawa/soturon/2013/NishiokaFujimoto.pdf)
 
 ### 予定
 - [最終レポートについて](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
