@@ -27,12 +27,20 @@
 - スクリプトを作成していたら、作成したスクリプトのうちから深そうなものを選んで、アルゴリズムの最適化や詳細解説を作成。最終的に、作品にフェードバックできるのが理想
 - スクリプト制作に関わらなかった場合、アルゴリズムやベクトルについて興味あるテーマを探す
 
+## 後期11回目(1/6)
+### 予定
+- [最終レポートについて](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+  - [Qiita. Advent Calendar 2021 Unity](https://qiita.com/advent-calendar/2021/unity)
+- コードレビュー続き
+- レポートのための調査、目次作成、内容執筆とレビュー
+  - 共有したGoogleドキュメントに記載を追加していく
+
 ## 後期10回目(12/23)
 ### 話題
 - [CyberAgentGameEntertainment/NovaShader](https://github.com/CyberAgentGameEntertainment/NovaShader)
 - 参考： [西岡和樹, 藤本健人. JAVA で作る弾幕系シューティングゲーム Barrage-based Shooting Game](http://www2.hannan-u.ac.jp/~hanakawa/soturon/2013/NishiokaFujimoto.pdf)
 
-### 予定
+### 内容
 - [最終レポートについて](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
   - [Qiita. Advent Calendar 2021 Unity](https://qiita.com/advent-calendar/2021/unity)
 - コードレビュー続き
