@@ -27,8 +27,19 @@
 - スクリプトを作成していたら、作成したスクリプトのうちから深そうなものを選んで、アルゴリズムの最適化や詳細解説を作成。最終的に、作品にフェードバックできるのが理想
 - スクリプト制作に関わらなかった場合、アルゴリズムやベクトルについて興味あるテーマを探す
 
-## 後期11回目(1/6)
+## 後期12回目(1/13)
+### 話題
+- [Shader Graphがビルトインシェーダーに対応](https://twitter.com/unity_japan/status/1481174111070134275)
+
 ### 予定
+- [最終レポートについて](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+  - [Qiita. Advent Calendar 2021 Unity](https://qiita.com/advent-calendar/2021/unity)
+- コードレビュー続き
+- レポートのための調査、目次作成、内容執筆とレビュー
+  - 共有したGoogleドキュメントに記載を追加していく
+
+## 後期11回目(1/6)
+### 内容
 - [最終レポートについて](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
   - [Qiita. Advent Calendar 2021 Unity](https://qiita.com/advent-calendar/2021/unity)
 - コードレビュー続き
