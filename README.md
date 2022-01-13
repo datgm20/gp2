@@ -38,6 +38,7 @@
 - レポートのための調査、目次作成、内容執筆とレビュー
   - 共有したGoogleドキュメントに記載を追加していく
   - [uchibakoya. Aqua Gardenルールブック](https://drive.google.com/drive/folders/1BRwX1SUiuW2UXukdLvOjzSepEPuCcgr2)
+    - uchibakoya.store.jp
 
 ## 後期11回目(1/6)
 ### 内容
