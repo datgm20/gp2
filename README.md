@@ -34,9 +34,10 @@
 ### 予定
 - [最終レポートについて](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
   - [Qiita. Advent Calendar 2021 Unity](https://qiita.com/advent-calendar/2021/unity)
-- コードレビュー続き
+- コードレビュー続き(完了)
 - レポートのための調査、目次作成、内容執筆とレビュー
   - 共有したGoogleドキュメントに記載を追加していく
+  - [uchibakoya. Aqua Gardenルールブック](https://drive.google.com/drive/folders/1BRwX1SUiuW2UXukdLvOjzSepEPuCcgr2)
 
 ## 後期11回目(1/6)
 ### 内容
