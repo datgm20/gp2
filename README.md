@@ -29,7 +29,7 @@
 
 ## 後期13回目(1/20)
 
-### 締め切り
+### レポート締め切り
 - 1/27(木) 16:10
 
 ### 予定
@@ -39,6 +39,9 @@
   - 共有したGoogleドキュメントに記載を追加していく
   - [uchibakoya. Aqua Gardenルールブック](https://drive.google.com/drive/folders/1BRwX1SUiuW2UXukdLvOjzSepEPuCcgr2)
     - uchibakoya.store.jp
+
+### 最終週
+- レポートの発表
 
 ## 後期12回目(1/13)
 ### 話題
