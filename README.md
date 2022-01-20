@@ -33,6 +33,7 @@
 - 1/27(木) 16:10
 
 ### 予定
+- ディッシューティングのオープニングのスクショ数枚
 - [最終レポートについて](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
   - [Qiita. Advent Calendar 2021 Unity](https://qiita.com/advent-calendar/2021/unity)
 - レポートのための調査、目次作成、内容執筆とレビュー
