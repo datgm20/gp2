@@ -27,6 +27,24 @@
 - スクリプトを作成していたら、作成したスクリプトのうちから深そうなものを選んで、アルゴリズムの最適化や詳細解説を作成。最終的に、作品にフェードバックできるのが理想
 - スクリプト制作に関わらなかった場合、アルゴリズムやベクトルについて興味あるテーマを探す
 
+## 後期14回目(1/27)
+
+- 本日16:10にレポート締め切り
+
+### 予定
+- ディッシューティングのオープニングの音声の組み込みとスクショ数枚
+  - 音の切り出しが必要な場合、[audacity](https://forest.watch.impress.co.jp/library/software/audacity/) をインストール
+- [最終レポートについて](https://docs.google.com/document/d/1e-xNuoNEFwIdqFmKodeUIc4QUkvR8nkAHYX5rMfmzhw/)
+  - [Qiita. Advent Calendar 2021 Unity](https://qiita.com/advent-calendar/2021/unity)
+- レポートのための調査、目次作成、内容執筆とレビュー
+  - 共有したGoogleドキュメントに記載を追加していく
+  - [uchibakoya. Aqua Gardenルールブック](https://drive.google.com/drive/folders/1BRwX1SUiuW2UXukdLvOjzSepEPuCcgr2)
+    - uchibakoya.store.jp
+
+### 最終週
+- レポートの発表
+
+
 ## 後期13回目(1/20)
 
 ### レポート締め切り
@@ -41,9 +59,6 @@
   - 共有したGoogleドキュメントに記載を追加していく
   - [uchibakoya. Aqua Gardenルールブック](https://drive.google.com/drive/folders/1BRwX1SUiuW2UXukdLvOjzSepEPuCcgr2)
     - uchibakoya.store.jp
-
-### 最終週
-- レポートの発表
 
 ## 後期12回目(1/13)
 ### 話題
